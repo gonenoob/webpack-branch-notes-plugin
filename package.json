@@ -1,0 +1,17 @@
+{
+  "name": "webpack-branch-notes-plugin",
+  "version": "1.0.0",
+  "description": "add branch information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "branch",
+    "notes"
+  ],
+  "author": "",
+  "license": "MIT"
+}

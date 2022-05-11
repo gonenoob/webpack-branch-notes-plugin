@@ -15,6 +15,12 @@ plugins: [
 ]
 ```
 
+### Output
+```js
+/* packageName | packageVersion | currentBranchName | currentCommitHash */
+...js content
+```
+
 ### Options
 * includes: array, default: ['packageName', 'packageVersion', 'branchName', 'commitHash']
 
